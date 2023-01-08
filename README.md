@@ -9,10 +9,10 @@ KeyLib will generate a random, customizable key string that you can used for any
 ## Windows
 ```
 python setup.py bdist_wheel
-pip install build\keylib.whl
+pip install dist\keylib.whl
 ```
 ## Linux / MacOS
 ```
 python ./setup.py bdist_wheel
-pip install build/keylib.whl
+pip install dist/keylib.whl
 ```
