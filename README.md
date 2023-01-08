@@ -1,4 +1,4 @@
-# KeyLib
+# 🔑 KeyLib
 ### Current Version: v0.0.1
 ## The best library for generating product keys!
 
