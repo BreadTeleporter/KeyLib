@@ -5,6 +5,6 @@ setup(
     packages=find_packages(include=['key']),
     version='0.0.1',
     description='Generate product keys',
-    author='Me',
+    author='BreadTeleporter',
     license = 'GNU GPLv3',
 )
