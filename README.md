@@ -2,7 +2,7 @@
 ### Current Version: v0.0.1
 ## The best library for generating product keys!
 
-KeyLib will generate a random, customizable key string that you can used for anything!
+KeyLib will generate a random, customizable key string that you can use for anything!
 
 # Building
 
